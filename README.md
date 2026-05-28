@@ -27,28 +27,10 @@ Training details:
 
 ## Demos
 
-<table>
-  <tr>
-    <td><strong>Flat Terrain</strong></td>
-    <td><strong>Rough Terrain</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <video width="100%" controls>
-        <source src="videos/flat/final policy 800 learning iterations.mp4" type="video/mp4">
-      </video>
-    </td>
-    <td>
-      <video width="100%" controls>
-        <source src="videos/rough/final policy 1500 learning iterations.mp4" type="video/mp4">
-      </video>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">800 PPO iterations</td>
-    <td align="center">1500 PPO iterations</td>
-  </tr>
-</table>
+| Flat Terrain | Rough Terrain |
+|-------------|--------------|
+| [📹 Watch Video](videos/flat/final%20policy%20800%20learning%20iterations.mp4) | [📹 Watch Video](videos/rough/final%20policy%201500%20learning%20iterations.mp4) |
+| 800 PPO iterations | 1500 PPO iterations |
 
 ## Repository Structure
 
