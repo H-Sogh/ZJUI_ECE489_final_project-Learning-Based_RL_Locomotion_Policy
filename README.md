@@ -35,12 +35,12 @@ Training details:
   <tr>
     <td>
       <video width="100%" controls>
-        <source src="videos/flat/final%20policy%20800%20learning%20iterations.mp4" type="video/mp4">
+        <source src="videos/flat/final policy 800 learning iterations.mp4" type="video/mp4">
       </video>
     </td>
     <td>
       <video width="100%" controls>
-        <source src="videos/rough/final%20policy%201500%20learning%20iterations.mp4" type="video/mp4">
+        <source src="videos/rough/final policy 1500 learning iterations.mp4" type="video/mp4">
       </video>
     </td>
   </tr>
@@ -97,8 +97,8 @@ tensorboard --logdir=C:\IsaacLab\logs\rsl_rl
 If you use this work, please cite:
 
 ```bibtex
-@misc{soghomonian2026quadruped,
-  author       = {Hayk Soghomonian and Siqi Pan},
+@misc{Soghomonyan_Pan_2026_quadruped,
+  author       = {Hayk Soghomonyan and Siqi Pan},
   title        = {Learning-Based Quadruped Locomotion via NVIDIA Isaac Lab and Proximal Policy Optimization},
   institution  = {Zhejiang University, ECE 489 / ME 446},
   year         = {2026},
