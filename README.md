@@ -72,7 +72,9 @@ isaaclab.bat -p scripts\reinforcement_learning\rsl_rl/play.py --task Isaac-Veloc
 
 ### Viewing training curves
 
+```cmd
 tensorboard --logdir=C:\IsaacLab\logs\rsl_rl
+```
 
 ## Citation
 
